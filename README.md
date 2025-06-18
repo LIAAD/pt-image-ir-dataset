@@ -39,16 +39,6 @@ The goal of this annotation task is to determine whether an image is relevant(1)
 5. **Avoiding biases**: Try to be objective and avoid personal biases. Focus on the content of the image and its relationship to the query. Do not let personal opinions or feelings about the subject matter influence your decision.
 6. **Unknown terminology**: If you encounter a term or concept in the query or article title that you do not know, you can search for it online to understand its meaning. This can help you better assess the relevance of the image.
 
-### How does the annotation process work?
-
-1. In the interface, you will see a query, the article title for the image, and the image itself.
-2. Read the query and the article title carefully.
-3. Evaluate the image based on the guidelines provided above.
-4. Select the appropriate label (1 for relevant, 0 for non-relevant) based on your assessment. You can use the buttons on the interface or the keys on your keyboard "R" for relevant and "I" for non-relevant.
-5. After selecting the label, the next image will show up automatically. (Keep in mind that the query and article title can change, so be sure to read them carefully each time.)
-
->Note: If you made a mistake you can undo by clicking the "Undo" button or using the keyboard shortcut "Z". The progress is saved automatically and you can leave at any time. There is also a progress bar to track how many images you have annotated for the current query.
-
 ## Citing
 
 If you use pt-image-ir-dataset in your research, please cite the following work:
